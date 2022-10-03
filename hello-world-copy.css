@@ -1,0 +1,149 @@
+h1{
+    color:purple;
+    text-align: center;
+}
+p{
+    color:blueviolet;
+}
+h6{
+    color:darkorchid;
+}
+body{
+    background-color: lavender
+}
+p{
+    font-family:fantasy
+}
+h1{
+    font-family: fantasy;
+    font-size:x-large;
+    font-weight: bold;
+}
+h6{
+    font-family: fantasy;
+}
+p{
+    font-size:medium;
+}
+li{
+    font-family: fantasy;
+}
+ul{
+    font-family: fantasy; 
+    list-style-type: square ;
+}
+h1{
+    background-color:white
+}
+h1{
+    border-style:ridge;
+    border-color: purple;
+}
+h2{
+    font-family: fantasy;
+    color: black;
+}
+
+.p1{
+    text-align: center;
+    font-size: large;color:#000
+}
+.p2{
+    text-align: center;
+    font-size: large;color: #000;
+}
+.p3{
+    text-align: center;
+    font-size: large;color: #000;
+}
+.p4{
+    text-align: center;
+    font-size: large;color: #000 ;
+}
+ul{
+    text-align: center;
+}
+li{
+    text-align: center;
+}     
+.p5{
+    text-align: center;
+    text-indent: 10%;
+    width: 650px;
+    margin:auto;
+
+}
+.p6{
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+ .container{
+        width: 100%;
+        min-height: 0vh;
+        padding-left: 8%;
+        padding-right: 8%;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display:inline-block;
+    margin-right: 30px;
+}
+nav ul li a{
+    text-decoration:underline;
+    color: #000;
+    font-size: 14px;
+}
+nav ul li a:hover{
+    color: #ff5ea2;
+}
+.navbar{
+    border-bottom: 3px purple;
+    border-style: ridge;
+}
+.ul1{
+    font-family: fantasy; 
+    list-style-type:  square ;
+    text-align: center;}
+
+.ul2{
+    font-family: fantasy; 
+    list-style-type:  square ;
+    text-align: center;}
+.p1{
+    border-top: 2px purple;
+    border-style: dotted;
+}
+*{
+    box-sizing: border-box;
+}
+.colum {
+    float:left;
+    width: 50%;
+    padding: 10px;
+    height: 250px;
+    text-align: center;
+}
+.row {
+    content: '';
+    display: table;
+    clear: both;
+    text-align: center;
+}
+li{list-style:square;}
